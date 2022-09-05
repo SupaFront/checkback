@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "pages",
+  "info": {
+    "singularName": "page",
+    "pluralName": "pages",
+    "displayName": "page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "identificator": {
+      "type": "string"
+    },
+    "ssuk": {
+      "type": "richtext"
+    }
+  }
+}

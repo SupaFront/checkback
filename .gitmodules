@@ -1,0 +1,3 @@
+[submodule "strapi-plugin-react-editorjs"]
+	path = strapi-plugin-react-editorjs
+	url = https://github.com/melishev/strapi-plugin-react-editorjs
