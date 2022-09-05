@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- *  case controller
+ *  use-case controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::case.case');
+module.exports = createCoreController('api::use-case.use-case');

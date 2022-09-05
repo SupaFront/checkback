@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * case service.
+ * link service.
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::case.case');
+module.exports = createCoreService('api::link.link');

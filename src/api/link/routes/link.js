@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * case router.
+ * link router.
  */
 
 const { createCoreRouter } = require('@strapi/strapi').factories;
 
-module.exports = createCoreRouter('api::case.case');
+module.exports = createCoreRouter('api::link.link');
