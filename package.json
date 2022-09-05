@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "buildapps",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -16,6 +16,7 @@
     "@strapi/plugin-users-permissions": "4.2.3",
     "@strapi/strapi": "4.2.3",
     "better-sqlite3": "7.4.6",
+    "heroku": "^7.63.0",
     "strapi": "^3.6.10"
   },
   "author": {
