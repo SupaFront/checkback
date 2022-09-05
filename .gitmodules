@@ -1,3 +1,3 @@
-[submodule "src/plugins/strapi-plugin-react-editorjs"]
-	path = src/plugins/strapi-plugin-react-editorjs
-	url = ./
+[submodule "editorjs-custom-plugin"]
+	path = editorjs-custom-plugin
+	url = https://github.com/SupaFront/editorjs-custom-plugin
