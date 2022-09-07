@@ -1,6 +1,6 @@
 module.exports = ({ env }) => ({
   editorjs: {
     enabled: true,
-    resolve: "./editorjs-custom-plugin",
+    resolve: "./src/plugins/strapi-plugin-react-editorjs",
   },
 });
