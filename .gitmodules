@@ -1,0 +1,3 @@
+[submodule "editor"]
+	path = editor
+	url = /Users/egorpodmazko/Desktop/WORK/SAVY/buildapps/buildapps.api/src/plugins/strapi-plugin-react-editorjs
