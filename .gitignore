@@ -113,3 +113,4 @@ exports
 build
 .strapi-updater.json
 src/plugins/strapi-plugin-react-editorjs
+package-lock.json
