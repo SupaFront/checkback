@@ -7,7 +7,8 @@
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi"
+    "strapi": "strapi",
+    "heroku-postbuild": "cd src/plugins/strapi-plugin-react-editorjs && npm run build"
   },
   "dependencies": {
     "@notum-cz/strapi-plugin-content-versioning": "^0.4.3",
