@@ -8,7 +8,7 @@
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "heroku-prebuild": "npm  --prefix ./src/plugins/editr/ install ./src/plugins/editr/ "
+    "heroku-postbuild": "npm run build && npm  --prefix ./src/plugins/editr/ install ./src/plugins/editr/ "
   },
   "dependencies": {
     "@notum-cz/strapi-plugin-content-versioning": "^0.4.3",
