@@ -6,7 +6,7 @@
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
-    "build": "strapi build &&  npm  --prefix ./src/plugins/editr/ install ./src/plugins/editr/ ",
+    "build": "strapi build",
     "strapi": "strapi"
   },
   "dependencies": {
