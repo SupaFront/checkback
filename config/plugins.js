@@ -1,6 +1,6 @@
-// module.exports = ({ env }) => ({
-//   editorjs: {
-//     enabled: true,
-//     resolve: "./src/plugins/editr/",
-//   },
-// });
+module.exports = ({ env }) => ({
+  editorjs: {
+    enabled: true,
+    resolve: "./src/plugins/editr/",
+  },
+});
