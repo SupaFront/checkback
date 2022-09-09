@@ -662,6 +662,11 @@
   "resolved" "https://registry.npmjs.org/@types/retry/-/retry-0.12.1.tgz"
   "version" "0.12.1"
 
+"@vietlongn/editorjs-carousel@2.3.6":
+  "integrity" "sha512-ZXtIp0q9uBz4zSY0wtZ8plhR2t92iyrqA6DdrDnBS3ae1GWnUVtBucrZfdmgEnUXSVfQPUp5KqTaVwUuvCS0Yg=="
+  "resolved" "https://registry.npmjs.org/@vietlongn/editorjs-carousel/-/editorjs-carousel-2.3.6.tgz"
+  "version" "2.3.6"
+
 "abbrev@~1.1.1", "abbrev@1":
   "integrity" "sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q=="
   "resolved" "https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz"

@@ -19,7 +19,6 @@
     "heroku": "^7.63.0",
     "pg": "^8.8.0",
     "pg-connection-string": "^2.5.0",
-    "strapi": "^3.6.10",
     "strapi-plugin-react-editorjs": "file:src/plugins/editr"
   },
   "author": {
