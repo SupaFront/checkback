@@ -17,6 +17,7 @@
     "@strapi/strapi": "4.2.3",
     "better-sqlite3": "7.4.6",
     "heroku": "^7.63.0",
+    "luxon": "^3.0.3",
     "pg": "^8.8.0",
     "pg-connection-string": "^2.5.0",
     "strapi-plugin-react-editorjs": "file:src/plugins/editr"
